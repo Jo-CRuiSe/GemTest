@@ -77,7 +77,7 @@ $$\def\rr{\bf R}$$
 
 $$\rr$$
 
->If you need to use `{{`, please define it in `_config`, because it will conflict with Jekyll syntax
+>If you need to use {% raw %} `{{` {% endraw %}, please define it in`_config`, because it will conflict with Jekyll syntax
 {: .prompt-warning}
 
 ## Precautions
