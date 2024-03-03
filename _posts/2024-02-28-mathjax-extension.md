@@ -60,6 +60,9 @@ $$\ooint$$
 
 $$\ooint_{S^{+}} \overrightarrow{F} \cdot d\overrightarrow{S} = \iiint\limits_{\Sigma}^{} div \overrightarrow{F} dV $$
 
+>值得注意的是通过以上尺寸来定义的方法对行间和行内公式可能并不通用。演示的符号在行间公式中显示正常，而在行内公式中显示异常。
+{: .prompt-danger}
+
 #### 在文章中设置宏
 
 >这种方法仅对当前文章生效，其他文章及主页等不生效

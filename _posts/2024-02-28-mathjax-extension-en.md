@@ -56,6 +56,13 @@ After configuration, you can use it directly in the article
 $$\ooint$$
 ```
 
+The effect is as follows:
+
+$$\ooint_{S^{+}} \overrightarrow{F} \cdot d\overrightarrow{S} = \iiint\limits_{\Sigma}^{} div \overrightarrow{F} dV $$
+
+>It is worth noting that the method defined by the above dimensions may not be universal for interline and inline formulas. The demonstrated symbols appear normally in inline formulas but abnormally in inline formulas.
+{: .prompt-danger}
+
 #### Set macros in articles
 
 >This method only takes effect for the current article, and does not take effect for other articles and homepage.
