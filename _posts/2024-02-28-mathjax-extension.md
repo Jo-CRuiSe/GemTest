@@ -56,6 +56,10 @@ macros:
 $$\ooint$$
 ```
 
+效果如下：
+
+$$\ooint_{S^{+}} \overrightarrow{F} \cdot d\overrightarrow{S} = \iiint\limits_{\Sigma}^{} div \overrightarrow{F} dV $$
+
 #### 在文章中设置宏
 
 >这种方法仅对当前文章生效，其他文章及主页等不生效
